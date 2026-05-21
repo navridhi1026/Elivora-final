@@ -9,7 +9,7 @@ const demoInfluencerPosts = [
   {
     id: 1,
     userName: "fashionista_sara",
-    userAvatar: "https://avatars.dicebear.com/api/initials/Sara.svg",
+    userAvatar: "https://api.dicebear.com/7.x/initials/svg?seed=Sara",
     videoThumbnail: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=400",
     product: "Summer Floral Dress",
     likes: 1234,
@@ -20,7 +20,7 @@ const demoInfluencerPosts = [
   {
     id: 2,
     userName: "style_with_alex",
-    userAvatar: "https://avatars.dicebear.com/api/initials/Alex.svg",
+    userAvatar: "https://api.dicebear.com/7.x/initials/svg?seed=Alex",
     videoThumbnail: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=400",
     product: "Casual Denim Jacket",
     likes: 2156,
@@ -31,7 +31,7 @@ const demoInfluencerPosts = [
   {
     id: 3,
     userName: "trendy_mia",
-    userAvatar: "https://avatars.dicebear.com/api/initials/Mia.svg",
+    userAvatar: "https://api.dicebear.com/7.x/initials/svg?seed=Mia",
     videoThumbnail: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=400",
     product: "Evening Gown",
     likes: 3421,
@@ -42,7 +42,7 @@ const demoInfluencerPosts = [
   {
     id: 4,
     userName: "chic_emma",
-    userAvatar: "https://avatars.dicebear.com/api/initials/Emma.svg",
+    userAvatar: "https://api.dicebear.com/7.x/initials/svg?seed=Emma",
     videoThumbnail: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400",
     product: "Business Casual Set",
     likes: 1876,
